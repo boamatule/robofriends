@@ -9,12 +9,12 @@
       "purpose": "maskable"
     },
     {
-      "src": "/images/androind-chrome-192x192.png",
+      "src": "/androind-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/images/androind-chrome-384x384.png",
+      "src": "/androind-chrome-384x384.png",
       "type": "image/png",
       "sizes": "512x512"
     }
