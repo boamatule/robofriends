@@ -9,9 +9,14 @@
       "purpose": "any maskable"
     },
     {
-      "src": "/android-chrome.png",
+      "src": "/android-chrome-192x192.png",
       "type": "image/png",
-      "sizes": "192x192 384x384 512x512"
+      "sizes": "192x192"
+    },
+    {
+      "src": "/android-chrome-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
     }
   ],
   "start_url": "./index.html",
